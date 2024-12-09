@@ -52,7 +52,6 @@ yarn-error.log
 !.vscode/extensions.json
 .history/*
 
-
 # Miscellaneous
 /.angular
 /.angular/cache
@@ -69,5 +68,4 @@ testem.log
 .DS_Store
 Thumbs.db
 
-
- /src/credentials.ts
+/src/credentials.ts
